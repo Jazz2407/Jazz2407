@@ -32,7 +32,7 @@ class JaiBharathKailash:
 
     name         = "Jai Bharath Kailash C"
     location     = "Thoothukudi, Tamil Nadu, India"
-    degree       = "BTech AI & Data Science @ Francis Xavier Engineering College"
+   
     github       = "Jazz2407"
     email        = "jaibharath2407@gmail.com"
 
@@ -198,10 +198,7 @@ class JaiBharathKailash:
 | 📜 | **Business Intelligence Using Power BI** | Certified by Skill Nation (2023) |
 | 🐍 | **NPTEL: The Joy of Computing Using Python** | National certification (2024) |
 | 🏭 | **NPTEL: Introduction to Industrial 4.0 & IIoT** | National certification (2024) |
-| 🤖 | **End-to-End AI System Deployment** | Delivered production AI systems across agriculture, real estate & compliance domains |
-| 📉 | **40% Email Processing Time Reduction** | Via GPT-4 + LangChain automated triage in SmartInbox Assistant |
-| 🎯 | **95% Field Analysis Accuracy** | Achieved with AGRON AI rover via sensor fusion & YOLOv8 |
-| ⚡ | **20% Property Search Speedup** | Via query optimization in EstateHub (EstateIQ) |
+
 
 </div>
 
