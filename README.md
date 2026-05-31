@@ -32,6 +32,7 @@ class JaiBharathKailash:
 
     name         = "Jai Bharath Kailash C"
     location     = "Thoothukudi, Tamil Nadu, India"
+    degree       = "BTech AI & Data Science @ Francis Xavier Engineering College"
     github       = "Jazz2407"
     email        = "jaibharath2407@gmail.com"
 
@@ -115,12 +116,9 @@ class JaiBharathKailash:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Jazz2407">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=Jazz2407&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Jazz2407">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazz2407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Jazz2407&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
+  &nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazz2407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </div>
 
 ---
@@ -144,7 +142,7 @@ class JaiBharathKailash:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jazz2407&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jazz2407&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
@@ -197,7 +195,22 @@ class JaiBharathKailash:
 | 📜 | **Business Intelligence Using Power BI** | Certified by Skill Nation (2023) |
 | 🐍 | **NPTEL: The Joy of Computing Using Python** | National certification (2024) |
 | 🏭 | **NPTEL: Introduction to Industrial 4.0 & IIoT** | National certification (2024) |
+| 🤖 | **End-to-End AI System Deployment** | Delivered production AI systems across agriculture, real estate & compliance domains |
+| 📉 | **40% Email Processing Time Reduction** | Via GPT-4 + LangChain automated triage in SmartInbox Assistant |
+| 🎯 | **95% Field Analysis Accuracy** | Achieved with AGRON AI rover via sensor fusion & YOLOv8 |
+| ⚡ | **20% Property Search Speedup** | Via query optimization in EstateHub (EstateIQ) |
 
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| 🎓 BTech — Artificial Intelligence & Data Science | Francis Xavier Engineering College | 2022 – 2026 | **GPA: 8.6 / 10** |
 
 </div>
 
