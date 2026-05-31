@@ -32,7 +32,6 @@ class JaiBharathKailash:
 
     name         = "Jai Bharath Kailash C"
     location     = "Thoothukudi, Tamil Nadu, India"
-   
     github       = "Jazz2407"
     email        = "jaibharath2407@gmail.com"
 
@@ -199,18 +198,6 @@ class JaiBharathKailash:
 | 🐍 | **NPTEL: The Joy of Computing Using Python** | National certification (2024) |
 | 🏭 | **NPTEL: Introduction to Industrial 4.0 & IIoT** | National certification (2024) |
 
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| 🎓 BTech — Artificial Intelligence & Data Science | Francis Xavier Engineering College | 2022 – 2026 | **GPA: 8.6 / 10** |
 
 </div>
 
