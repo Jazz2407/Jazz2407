@@ -32,7 +32,6 @@ class JaiBharathKailash:
 
     name         = "Jai Bharath Kailash C"
     location     = "Thoothukudi, Tamil Nadu, India"
-    degree       = "BTech AI & Data Science @ Francis Xavier Engineering College"
     github       = "Jazz2407"
     email        = "jaibharath2407@gmail.com"
 
@@ -113,48 +112,6 @@ class JaiBharathKailash:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jazz2407&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jazz2407&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jazz2407&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jazz2407&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jazz2407&theme=tokyonight&utcOffset=5.5"/>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jazz2407&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jazz2407&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jazz2407&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8"/>
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
@@ -203,10 +160,6 @@ class JaiBharathKailash:
 | 📜 | **Business Intelligence Using Power BI** | Certified by Skill Nation (2023) |
 | 🐍 | **NPTEL: The Joy of Computing Using Python** | National certification (2024) |
 | 🏭 | **NPTEL: Introduction to Industrial 4.0 & IIoT** | National certification (2024) |
-| 🤖 | **End-to-End AI System Deployment** | Delivered production AI systems across agriculture, real estate & compliance domains |
-| 📉 | **40% Email Processing Time Reduction** | Via GPT-4 + LangChain automated triage in SmartInbox Assistant |
-| 🎯 | **95% Field Analysis Accuracy** | Achieved with AGRON AI rover via sensor fusion & YOLOv8 |
-| ⚡ | **20% Property Search Speedup** | Via query optimization in EstateHub (EstateIQ) |
 
 </div>
 
